@@ -1,0 +1,16 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#button {
+font-size: 30px;
+color: red;
+background-color: white;
+width: 608px;
+height: 50px;
+margin-left: 285px;
+
+cursor: pointer;
+border: none;
+}
